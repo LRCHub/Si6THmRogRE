@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "エンヴィキャットウォーク",
+  "base_artist": "りぶ",
+  "createdAt": "2026-02-11T04:08:52.879065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "トーマ",
+      "has_synced": false,
+      "path": "select/01_エンヴィキャットウォーク_トーマ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "トーマ feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/02_エンヴィキャットウォーク_トーマ_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク (feat.灯油)",
+      "artist": "トーマ",
+      "has_synced": true,
+      "path": "select/03_エンヴィキャットウォーク_(feat.灯油)_トーマ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "灯油",
+      "has_synced": true,
+      "path": "select/04_エンヴィキャットウォーク_灯油.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク(カバー)",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/05_エンヴィキャットウォーク(カバー)_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/06_エンヴィキャットウォーク_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "Last Note. feat. りょーくん",
+      "has_synced": true,
+      "path": "select/07_エンヴィキャットウォーク_Last_Note._feat._りょーくん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/08_エンヴィキャットウォーク_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "トーマ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_エンヴィキャットウォーク_トーマ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "Cordelia",
+      "has_synced": true,
+      "path": "select/10_エンヴィキャットウォーク_Cordelia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "トーマ feat.初音ミク",
+      "has_synced": true,
+      "path": "select/11_エンヴィキャットウォーク_トーマ_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "Vocalohistory",
+      "has_synced": false,
+      "path": "select/12_エンヴィキャットウォーク_Vocalohistory.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エンヴィキャットウォーク",
+      "artist": "Various Artists feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/13_エンヴィキャットウォーク_Various_Artists_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンヴィキャットウォーク",
+      "artist": "りぶ",
+      "has_synced": false,
+      "path": "select/pl_01_エンヴィキャットウォーク_りぶ.txt"
+    }
+  ]
+}
